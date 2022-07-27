@@ -1,0 +1,11 @@
+* {
+  color: white;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background: #200d3b;
+  margin: 0;
+  padding: 16px;
+}
